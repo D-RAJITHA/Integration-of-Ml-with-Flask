@@ -1,2 +1,2 @@
 # Integration-of-Ml-with-Flask
-Deploying Ml model using flask 
+Deploying Ml model with flask 
